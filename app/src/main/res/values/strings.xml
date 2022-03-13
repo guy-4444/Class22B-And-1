@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">Class22B-And-1</string>
+    <string name="app_name" translatable="false">Class22B-And-1</string>
     <string name="show">Show</string>
+    <string name="click_me">Click Me</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>
